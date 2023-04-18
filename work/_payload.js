@@ -1,0 +1,1 @@
+export default {data:{EYP2TJ7uSv:{work:[{id:0,name:"clone1",thumb:"img\u002F01.jpg"},{id:1,name:"clone2",thumb:"img\u002F02.jpg"},{id:2,name:"clone3",thumb:"img\u002F03.jpg"}]}},prerenderedAt:1681798467687}

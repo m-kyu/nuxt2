@@ -1,0 +1,1 @@
+import{m as s,i as o,a as r,b as n,j as c,t as a,u as _,e as d,o as u}from"./entry.549003a7.js";const i=d("h2",null,"Work",-1),l={data(){return{}},computed:{...s(["data"])},methods:{...o(["getData"])},created(){this.getData()}},g=Object.assign(l,{__name:"work",setup(m){const t=r("g");return(e,p)=>(u(),n("div",null,[i,c(" "+a(_(t))+" "+a(e.data),1)]))}});export{g as default};
